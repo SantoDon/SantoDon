@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/SantoDon/SantoDon/blob/master/Example_SD.png"/>
+<img align="right" src="https://github.com/SantoDon/SantoDon/blob/main/Example_SD.png"/>
 
 ### Hi there 👋
 
